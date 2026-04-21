@@ -32,7 +32,4 @@ Covers data cleaning, exploratory analysis, and interactive dashboard building.
 - XX% of orders were successfully delivered
 - Highest revenue month was XXXX
 
-## Screenshots
-![Sales Overview](dashboard_overview.png)
-![Products & Orders](dashboard_products.png)
-![Details View](dashboard_details.png)
+
